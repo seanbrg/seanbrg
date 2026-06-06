@@ -1,5 +1,5 @@
 # Hi, I'm Sean 👋
-Final-year Computer Science student specializing in AI and Data Science (graduating 2026). I build across the ML stack: model training and evaluation, data pipelines, backend services, and the occasional drop down to RTL and hardware.
+Final-year Computer Science student specializing in AI and Data Science. I build across the ML stack: model training and evaluation, data pipelines, backend services, and the occasional drop down to RTL and hardware.
 ```text
 ml engineering  ·  data engineering  ·  backend  ·  a bit of hardware/RTL
 ```
