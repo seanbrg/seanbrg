@@ -27,7 +27,7 @@ On the ML/RAG side I also spend time with ChromaDB, LangGraph, Airflow, and the 
 - **Vector: AI Career Advisor**: AI-powered career platform. FastAPI backend with a multi-agent LangGraph orchestrator that routes to SQL, resume, and job-advisory agents, a React/Vite frontend, and an Airflow ETL pipeline feeding a vector store.
 - **Road Route Planner**: A routing tool that finds roads in satellite images with D-LinkNet segmentation, then solves for the shortest path between points.
 - **S-Emulator IDE**: An IDE and compiler toolchain written in Java from scratch for the programming language S.
-- **Llama-3 Q&A system**: Fine tuned question answering system of an LLM on SQuAD 2.0 database.
+- **Issueflow**: Server-side web app for tracking issues and comments over multiple projects.
 
 ### 📊 GitHub
 ![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanbrg&show_icons=true&hide_border=true&cache_seconds=86400)
