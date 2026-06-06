@@ -8,9 +8,9 @@ ml engineering  ·  data engineering  ·  backend  ·  a bit of hardware/RTL
 
 ### 🔭 What I'm working on
 
-- A RAG-based career advisor app (FastAPI + React/Vite) with a multi-agent LangGraph backend and an Airflow ETL pipeline
-- SystemVerilog verification, working up from a FIFO to a full Sobel edge-detection accelerator with its own testbench
-- Learning German, on the way toward B1
+- Multi-agent AI career advisory platform: LangGraph-baed backend, Airflow ETL, FastAPI + React/Vite
+- SystemVerilog verification, from a FIFO up to a full Sobel accelerator and testbench
+- German, grinding toward B1
 
 ### 🛠️ Tech I work with
 
@@ -28,9 +28,9 @@ Also spend time with ChromaDB, LangGraph, Airflow, and the Anthropic API on the 
 
 ### 📌 A few projects
 
-**vector-ai-career-advisor** — RAG career assistant. FastAPI backend with a multi-agent LangGraph orchestrator routing to SQL, resume, and job-advisory specialists, a React/Vite frontend, and an Airflow ETL pipeline feeding a vector store.
+**vector-ai-career-advisor** — AI-powered career platform. FastAPI backend with a multi-agent LangGraph orchestrator routing to SQL, resume, and job-advisory agents, a React/Vite frontend, and an Airflow ETL pipeline feeding a vector store.
 
-**Satellite road detection** — Semantic segmentation with D-LinkNet for extracting roads from satellite imagery (Dice 0.629, PR AUC 0.767).
+**Satellite road detection** — Semantic segmentation with D-LinkNet for detecting roads from satellite imagery, used in a client to detect shortest routes.
 
 **Llama-3 QA system** — Question answering on SQuAD 2.0 (71.2 F1).
 
