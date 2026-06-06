@@ -5,7 +5,7 @@ ml engineering  ·  data engineering  ·  backend  ·  a bit of hardware/RTL
 ```
 ### 🔭 Currently building
 - Multi-agent AI career advisory platform: LangGraph backend, Airflow ETL, FastAPI + React/Vite
-- An app that detects roads in satellite imagery and computes shortest paths across them, powered by a computer vision model
+- Computer vision powered app that detects roads in satellite imagery and computes shortest paths across them
 - SystemVerilog verification, working up from a simple FIFO to a full Sobel accelerator and testbench
 
 ### 🛠️ Tech I work with
