@@ -4,8 +4,8 @@ Final-year Computer Science student specializing in AI and Data Science. I build
 ml engineering  ·  data engineering  ·  backend  ·  a bit of hardware/RTL
 ```
 ### 🔭 Currently building
-- Multi-agent AI career advisory platform: LangGraph backend, Airflow ETL, FastAPI + React/Vite
-- Computer vision powered app that detects roads in satellite imagery and computes shortest paths across them
+- Multi-agent AI platform that advises on careers by routing questions across specialized LangGraph agents over a vector store
+- Computer vision app that detects roads in satellite imagery and computes shortest paths across them
 - SystemVerilog verification, working up from a simple FIFO to a full Sobel accelerator and testbench
 
 ### 🛠️ Tech I work with
