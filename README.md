@@ -30,7 +30,7 @@ On the ML/RAG side I also spend time with ChromaDB, LangGraph, Airflow, and the 
 **Custom Java IDE / compiler**: A small IDE and compiler toolchain written in Java.
 
 ### 📊 GitHub
-![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanbrg&show_icons=true&hide_border=true)
+![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanbrg&show_icons=true&hide_border=true&cache_seconds=86400)
 
 ### 🎲 Off the clock
 I run several D&D 5e campaigns as a Dungeon Master and design original adventures, and I'm slowly building a worldbuilding-heavy indie game solo. The same instincts that make a good system design tend to make a good campaign.
