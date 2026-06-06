@@ -38,10 +38,6 @@ Also spend time with ChromaDB, LangGraph, Airflow, and the Anthropic API on the 
 
 **Custom Java IDE / compiler** — A small IDE and compiler toolchain written in Java.
 
-### 📊 GitHub
-
-![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanbrg&show_icons=true&hide_border=true)
-
 ### 🎲 Off the clock
 
 I run multiple D&D 5e campaigns as a Dungeon Master and design original adventures, and I'm slowly building a worldbuilding-heavy indie game as a solo project. A lot of the same instincts that go into a good system design go into a good campaign.
@@ -49,4 +45,3 @@ I run multiple D&D 5e campaigns as a Dungeon Master and design original adventur
 ### 📫 Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sean-k-berger)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/seanbrg)
