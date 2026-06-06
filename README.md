@@ -5,8 +5,8 @@ ml engineering  ·  data engineering  ·  backend  ·  a bit of hardware/RTL
 ```
 ### 🔭 Currently building
 - Multi-agent AI career advisory platform: LangGraph backend, Airflow ETL, FastAPI + React/Vite
-- SystemVerilog verification, working up from a FIFO to a full Sobel accelerator and testbench
-- German, grinding toward B1
+- An app that detects roads in satellite imagery and computes shortest paths across them, powered by a computer vision model
+- SystemVerilog verification, working up from a simple FIFO to a full Sobel accelerator and testbench
 
 ### 🛠️ Tech I work with
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -24,7 +24,7 @@ On the ML/RAG side I also spend time with ChromaDB, LangGraph, Airflow, and the 
 ### 📌 A few projects
 
 **vector-ai-career-advisor**: AI-powered career platform. FastAPI backend with a multi-agent LangGraph orchestrator that routes to SQL, resume, and job-advisory agents, a React/Vite frontend, and an Airflow ETL pipeline feeding a vector store.
-**Satellite road detection**: Semantic segmentation with D-LinkNet to detect roads from satellite imagery, wired into a client for shortest-route finding.
+**Satellite road detection**: A routing tool that finds roads in satellite images with D-LinkNet segmentation, then solves for the shortest path between points.
 **Llama-3 QA system**: Question answering on SQuAD 2.0 (71.2 F1).
 **SystemVerilog Sobel accelerator**: Edge-detection hardware accelerator in RTL, with a full verification environment built from scratch.
 **Custom Java IDE / compiler**: A small IDE and compiler toolchain written in Java.
@@ -38,3 +38,4 @@ I run several D&D 5e campaigns as a Dungeon Master and design original adventure
 ### 📫 Find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sean-k-berger)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/seanbrg)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sean.k.berger@gmail.com)
