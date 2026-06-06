@@ -11,6 +11,7 @@ ml engineering  ·  data engineering  ·  backend  ·  a bit of hardware/RTL
 ### 🛠️ Tech I work with
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
