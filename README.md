@@ -1,6 +1,6 @@
 # Hi, I'm Sean 👋
 
-Final-year Computer Science student at the Academic College of Tel Aviv-Yaffo, specializing in AI and Data Science (graduating 2026). I like building things that cut across the stack: machine learning, data pipelines, backend services, and occasionally down to RTL and hardware.
+Final-year Computer Science student, specializing in AI and Data Science (graduating 2026). I like building things that cut across the stack: machine learning, data pipelines, backend services, and occasionally down to RTL and hardware.
 
 ```text
 ml engineering  ·  data engineering  ·  backend  ·  a bit of hardware/RTL
