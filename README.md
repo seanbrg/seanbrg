@@ -20,7 +20,7 @@ ml engineering  ·  data engineering  ·  backend  ·  a bit of hardware/RTL
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-On the ML/RAG side I also spend time with ChromaDB, LangGraph, Airflow, and the Anthropic API.
+On the AI engineering side I also spend time with ChromaDB, LangGraph and Airflow.
 
 ### 📌 A few projects
 
