@@ -34,6 +34,7 @@ On the AI engineering side I also spend time with ChromaDB, LangGraph and Airflo
 
 ### 🎲 Off the clock
 I run several D&D 5e campaigns as a Dungeon Master and design original adventures, and I'm slowly building a worldbuilding-heavy indie game solo. The same instincts that make a good system design tend to make a good campaign.
+I also enjoy bouldering and hiking.
 
 ### 📫 Find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sean-k-berger)
